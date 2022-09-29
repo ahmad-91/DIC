@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/ahmad-91/DIC.git/static/css/main.ea25ef20.css",
+    "main.js": "/ahmad-91/DIC.git/static/js/main.420f4c23.js",
+    "static/js/787.5f95e8ad.chunk.js": "/ahmad-91/DIC.git/static/js/787.5f95e8ad.chunk.js",
+    "static/media/montez-all-400-normal.woff": "/ahmad-91/DIC.git/static/media/montez-all-400-normal.79b5dfe53039dd35baa7.woff",
+    "static/media/montez-latin-400-normal.woff2": "/ahmad-91/DIC.git/static/media/montez-latin-400-normal.e3ec19d3e32d3976b075.woff2",
+    "static/media/logo.svg": "/ahmad-91/DIC.git/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/ahmad-91/DIC.git/index.html",
+    "main.ea25ef20.css.map": "/ahmad-91/DIC.git/static/css/main.ea25ef20.css.map",
+    "main.420f4c23.js.map": "/ahmad-91/DIC.git/static/js/main.420f4c23.js.map",
+    "787.5f95e8ad.chunk.js.map": "/ahmad-91/DIC.git/static/js/787.5f95e8ad.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ea25ef20.css",
+    "static/js/main.420f4c23.js"
+  ]
+}
